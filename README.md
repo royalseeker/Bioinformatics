@@ -1,4 +1,5 @@
 # Bioinformatics
-Bioinformatics Tools etc
+Bioinformatics Tools
 
-Padel Descriptor Files To calculate Fingerprints
+Padel Descriptor - To calculate Fingerprints
+NGS Technique - Learning PLatform
