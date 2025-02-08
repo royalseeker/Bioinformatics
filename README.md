@@ -1,5 +1,4 @@
 # Bioinformatics
-Bioinformatics Tools
-[
-Padel Descriptor](Padel Descriptor/padel.sh) - To calculate Fingerprints  
-NGS Technique - [Learning Platform]([url](http://education.knoweng.org/sequenceng/))
+### Bioinformatics Tools
+1. [Padel Descriptor](Padel-Descriptor) - To calculate Fingerprints 
+2. NGS Technique - [Learning Platform]([url](http://education.knoweng.org/sequenceng/))
